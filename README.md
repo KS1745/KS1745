@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/sinha_kart1745" target="blank"><img src="https://img.shields.io/twitter/follow/sinha_kart1745?logo=twitter&style=for-the-badge" alt="sinha_kart1745" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+
 
 - 📫 How to reach me **kartikay.snha17@gmail.com**
 
